@@ -1,0 +1,6 @@
+C:\Users\ace-b\Source\Repos\00584599\ps4\UITesting\obj\Debug\UITesting.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\spreadsheet\ServerSide\clientSide\UITesting\bin\Debug\UITesting.dll
+C:\Users\Thomas\Source\Repos\spreadsheet\ServerSide\clientSide\UITesting\bin\Debug\UITesting.pdb
+C:\Users\Thomas\Source\Repos\spreadsheet\ServerSide\clientSide\UITesting\obj\Debug\UITesting.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\spreadsheet\ServerSide\clientSide\UITesting\obj\Debug\UITesting.dll
+C:\Users\Thomas\Source\Repos\spreadsheet\ServerSide\clientSide\UITesting\obj\Debug\UITesting.pdb

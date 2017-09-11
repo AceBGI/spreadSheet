@@ -1,0 +1,10 @@
+C:\Users\ace-b\Source\Repos\Course_Examples\FancyChatSystem\NetworkController\bin\Debug\NetworkController.dll
+C:\Users\ace-b\Source\Repos\Course_Examples\FancyChatSystem\NetworkController\bin\Debug\NetworkController.pdb
+C:\Users\ace-b\Source\Repos\Course_Examples\FancyChatSystem\NetworkController\obj\Debug\NetworkController.csprojResolveAssemblyReference.cache
+C:\Users\ace-b\Source\Repos\Course_Examples\FancyChatSystem\NetworkController\obj\Debug\NetworkController.dll
+C:\Users\ace-b\Source\Repos\Course_Examples\FancyChatSystem\NetworkController\obj\Debug\NetworkController.pdb
+C:\Users\ace-b\Source\Repos\00584599\Snake\NetworkController\bin\Debug\NetworkController.dll
+C:\Users\ace-b\Source\Repos\00584599\Snake\NetworkController\bin\Debug\NetworkController.pdb
+C:\Users\ace-b\Source\Repos\00584599\Snake\NetworkController\obj\Debug\NetworkController.dll
+C:\Users\ace-b\Source\Repos\00584599\Snake\NetworkController\obj\Debug\NetworkController.pdb
+C:\Users\ace-b\Source\Repos\00584599\Snake\NetworkController\obj\Debug\NetworkController.csprojResolveAssemblyReference.cache
